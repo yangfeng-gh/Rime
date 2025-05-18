@@ -1,0 +1,102 @@
+# Rime user dictionary
+#@/db_name	wubi86
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	65
+#@/user_id	Rime
+afs 	某	c=1 d=1 t=33
+c 	以	c=1 d=1 t=54
+ce 	能	c=1 d=1 t=28
+d 	在	c=2 d=1.96561 t=37
+dn 	成	c=1 d=1 t=17
+et 	用	c=1 d=1 t=48
+f 	地	c=1 d=1 t=65
+fhw 	真	c=1 d=1 t=20
+ft 	才	c=1 d=1 t=27
+hi 	步	c=1 d=1 t=61
+i 	不	c=1 d=1 t=41
+iv 	当	c=1 d=1 t=7
+j 	是	c=1 d=1 t=2
+k 	中	c=2 d=1.96561 t=38
+lfn 	转	c=1 d=1 t=15
+lw 	办	c=1 d=1 t=26
+lwg 	输	c=1 d=1 t=4
+m 	同	c=1 d=1 t=60
+mmbw 	删除	c=1 d=1 t=6
+nnrg 	快捷	c=1 d=1 t=12
+p 	这	c=2 d=1.74826 t=59
+pwst 	空格	c=1 d=1 t=18
+q 	我	c=1 d=1 t=45
+qvfp 	键	c=2 d=1.99501 t=14
+r 	的	c=1 d=1 t=11
+rasy 	描述	c=1 d=1 t=57
+rq 	换	c=1 d=1 t=16
+s 	要	c=1 d=1 t=22
+sg 	本	c=1 d=1 t=64
+sglf 	配置	c=3 d=2.77828 t=63
+sk 	可	c=3 d=2.98012 t=53
+tc 	么	c=2 d=1.85214 t=56
+tf 	行	c=1 d=1 t=10
+tg 	生	c=1 d=1 t=42
+thfn 	怎	c=2 d=1.85214 t=55
+tkyc 	程序	c=1 d=1 t=35
+ty 	入	c=1 d=1 t=5
+ue 	前	c=1 d=1 t=8
+uqt 	效	c=1 d=1 t=43
+vb 	好	c=1 d=1 t=47
+wdt 	做	c=1 d=1 t=29
+wftc 	什么	c=1 d=1 t=3
+wh 	个	c=1 d=1 t=34
+ymlf 	设置	c=1 d=1 t=32
+encafwh 	某个	c=0 d=0.1 t=34
+encawty 	某个程序	c=0 d=0.1 t=35
+enccewd 	能做	c=0 d=0.1 t=29
+encdpst 	成空格	c=0 d=0.1 t=18
+encfcwd 	才能做	c=0 d=0.1 t=29
+encftce 	才能	c=0 d=0.1 t=28
+encgitg 	不生	c=0 d=0.1 t=42
+encgtuq 	不生效	c=0 d=0.1 t=43
+encivue 	当前	c=0 d=0.1 t=8
+encjwtc 	是什么	c=0 d=0.1 t=3
+encjwtl 	是什么输	c=0 d=0.1 t=4
+enckyla 	中设置某	c=0 d=0.1 t=33
+enckylf 	中设置	c=0 d=0.1 t=32
+enclfce 	办才能	c=0 d=0.1 t=28
+enclfcw 	办才能做	c=0 d=0.1 t=29
+enclfrq 	转换	c=0 d=0.1 t=16
+enclrdn 	转换成	c=0 d=0.1 t=17
+enclwft 	办才	c=0 d=0.1 t=27
+enclwty 	输入	c=0 d=0.1 t=5
+encmbiu 	删除当前	c=0 d=0.1 t=8
+encmbiv 	删除当	c=0 d=0.1 t=7
+encmghi 	同步	c=0 d=0.1 t=61
+encnrqv 	快捷键	c=0 d=0.1 t=13
+encnttc 	以怎么	c=0 d=0.1 t=56
+encnyth 	以怎	c=0 d=0.1 t=55
+encqlrd 	键转换成	c=0 d=0.1 t=17
+encqlrq 	键转换	c=0 d=0.1 t=16
+encqvlf 	键转	c=0 d=0.1 t=15
+encrdps 	换成空格	c=0 d=0.1 t=18
+encrnrg 	的快捷	c=0 d=0.1 t=12
+encrnrq 	的快捷键	c=0 d=0.1 t=13
+encrqdn 	换成	c=0 d=0.1 t=17
+encsgfb 	本地	c=0 d=0.1 t=65
+encskny 	可以	c=0 d=0.1 t=54
+encsnth 	可以怎	c=0 d=0.1 t=55
+encsntt 	可以怎么	c=0 d=0.1 t=56
+encsttc 	要怎么	c=0 d=0.1 t=24
+encsvth 	要怎	c=0 d=0.1 t=23
+enctfrq 	行的	c=0 d=0.1 t=11
+enctguq 	生效	c=0 d=0.1 t=43
+encthtc 	怎么	c=0 d=0.1 t=56
+enctrnr 	行的快捷	c=0 d=0.1 t=12
+enctrsy 	么描述	c=0 d=0.1 t=57
+encttrs 	怎么描述	c=0 d=0.1 t=57
+encvbet 	好用	c=0 d=0.1 t=48
+encwtlt 	什么输入	c=0 d=0.1 t=5
+encwtlw 	什么输	c=0 d=0.1 t=4
+encwtyc 	个程序	c=0 d=0.1 t=35
+encyjwt 	这是什么	c=0 d=0.1 t=3
+encylaf 	设置某	c=0 d=0.1 t=33
+encylaw 	设置某个	c=0 d=0.1 t=34
+encypjg 	这是	c=0 d=0.1 t=2

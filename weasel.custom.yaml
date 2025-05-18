@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon May 19 05:40:22 2025"
+  rime_version: 1.13.1
+patch:
+  app_options:
+    WindowsTerminal.exe: {ascii_mode: true}
+    pycharm64.exe: {ascii_mode: true}
+  "style/color_scheme": google
+  "style/display_tray_icon": false
+  "style/font_face": "Microsoft YaHei"
+  "style/font_point": 12
+  "style/horizontal": false

@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Mon May 19 04:35:29 2025"
+  rime_version: 1.13.1
+patch:
+  schema_list:
+    - {schema: luna_pinyin_simp}
+    - {schema: wubi86}
+  "switcher/hotkeys":    
+    - Control+F1
